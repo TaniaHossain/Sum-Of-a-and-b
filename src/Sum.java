@@ -8,7 +8,10 @@ public class Sum {
 		
 		int sum = a + b;
 		
-		System.out.println("Result = " +sum);
+		System.out.println("Value Of A = " +a);
+		System.out.println("Value Of B = " +b);
+		
+		System.out.println("Result (Sum OF A and B) is = " +sum);
 
 	}
 
